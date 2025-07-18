@@ -1,5 +1,3 @@
----
-
 # Odd or Even Checker ✅
 
 A simple Python program that lets users check if a number is **odd** or **even** in a continuous loop until they choose to exit.
@@ -70,5 +68,3 @@ oddoreven()
 ## License
 
 Free to use for educational and personal projects.
-
----
